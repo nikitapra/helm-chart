@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nikita:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-04T16:52:52.3013419+05:30"
+    description: A Helm chart for SQL database
+    digest: e64b41856740311095f6f15fabb78b221b95345969184dfb224e6f0952193b8d
+    name: nikita
+    type: application
+    urls:
+    - nikita-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-04T16:52:52.2895634+05:30"
